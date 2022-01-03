@@ -6,7 +6,7 @@
 
   <groupId>com.sbi.banking</groupId>
   <artifactId>BankingCommon</artifactId>
-  <packaging>pom</packaging>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>BankingCommon</name>
